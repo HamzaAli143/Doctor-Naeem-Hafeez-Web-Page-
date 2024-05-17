@@ -112,7 +112,7 @@ body{
         width: 270px;
     }
     #menu{
-        padding-top: 10%;
+        padding-top: 5%;
         padding-left: 0px;
         padding-right: 0px;
     
@@ -130,7 +130,7 @@ body{
         padding: 5%;
     }
     .img{
-        padding-top: 10%;
+        padding-top: 20%;
     }
     body{
         overflow-x: hidden;
@@ -152,7 +152,7 @@ body{
         display: none;
     }
     .img{
-        padding-top: 15%;
+        padding-top: 25%;
     }
     body{
         overflow-x: hidden;
