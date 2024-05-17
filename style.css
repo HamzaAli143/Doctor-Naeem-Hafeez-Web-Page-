@@ -185,9 +185,7 @@ body{
     text-decoration: underline 3px #1E88E5;
     text-underline-offset: 5px;
 }
-#button3{
-    display: flex; justify-content: right; text-align: right;
-}
+
 #button-3{
     border: 1px solid #1E88E5 ;  border-radius: 35px; background:  #1E88E5; color: white;
     transition: .3s all ease-out; font-size: 14px;
@@ -213,4 +211,12 @@ body{
     display: flex;
     overflow-x: auto;
     padding: 5%;
+}
+#video-row .iframe{
+    padding: 20px;
+    border-radius: 20px;
+}
+#video-row iframe{
+    width: 320px;
+    height: 320px;
 }
